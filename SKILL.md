@@ -53,9 +53,9 @@ Convert any input into Nadav's personal shorthand note style.
 ### Output
 **penicillin — discovery**
 - alexander fleming, 1928
-- returned from vacation → mold contaminated staph culture
-- bacteria around mold dead — mold (penicillium) = antibacterial
-- accident, not planned experiment
+- returned from vacation → mold had contaminated bacteria culture
+- bacteria around mold had died
+- discovered by accident
 
 ---
 

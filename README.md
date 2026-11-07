@@ -24,9 +24,9 @@ Most AI summaries come out as tidy paragraphs. That's fine for reading once, but
 ```
 **penicillin — discovery**
 - alexander fleming, 1928
-- returned from vacation → mold contaminated staph culture
-- bacteria around mold dead — mold (penicillium) = antibacterial
-- accident, not planned experiment
+- returned from vacation → mold had contaminated bacteria culture
+- bacteria around mold had died
+- discovered by accident
 ```
 
 ## When it triggers
