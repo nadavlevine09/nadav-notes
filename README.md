@@ -51,3 +51,5 @@ git clone https://github.com/nadavlevine09/nadav-notes ~/.claude/skills/nadav-no
 ## Customizing
 
 All the rules are in [`SKILL.md`](SKILL.md). Change the format rules or swap the examples to match how you take notes, and Claude will follow your version.
+
+Want review sheets, flashcards, outlines, and citation handling? Get **Shorthand Notes** on Agensi: https://www.agensi.io/
